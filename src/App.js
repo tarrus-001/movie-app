@@ -20,7 +20,7 @@ const App = () => {
     }
 
     useEffect(() => {
-        searchMovies('superman');
+        searchMovies('spiderman');
         console.log("movies",movies)
 
     }, []);
@@ -30,7 +30,7 @@ const App = () => {
          <div className="search">
             <input
              placeholder="search for movies"
-             value="Spiderman"
+             value="Superman"
              onChange={ () => {}}
              />
              <img
