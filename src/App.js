@@ -26,7 +26,7 @@ const App = () => {
     }, []);
     return (
         <div className="app">
-            <h1>krypto-tech</h1>
+            <h1>kryptic</h1>
          <div className="search">
             <input
              placeholder="search for movies"
