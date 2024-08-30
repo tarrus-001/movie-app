@@ -30,7 +30,7 @@ const App = () => {
          <div className="search">
             <input
              placeholder="search for movies"
-             value="Superman"
+             value="Spiderman"
              onChange={ () => {}}
              />
              <img
